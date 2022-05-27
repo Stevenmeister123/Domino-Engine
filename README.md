@@ -7,7 +7,7 @@ Look up a tutorial ig idk and USE v4.1.5 SO IT CAN WORK.
 # How do I add a funny wavy background like from the hit and very meme mod dave and bambi
 Here is the code lmao
 
-case 'put your stage here':
+                     case 'put your stage here':
 			{
 				defaultCamZoom = 0.85;
 				curStage = 'put your stage here';
@@ -27,3 +27,5 @@ case 'put your stage here':
 				curbg = bg;
 				#end
 			}
+			
+ur welcome
